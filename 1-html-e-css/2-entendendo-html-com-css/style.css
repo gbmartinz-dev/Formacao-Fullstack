@@ -14,3 +14,15 @@ img {
 li {
   font-weight: bold;
 }
+
+.titulo {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+}
+
+#texto {
+  color: purple;
+  font-size: 20px;
+  text-align: center;
+}
