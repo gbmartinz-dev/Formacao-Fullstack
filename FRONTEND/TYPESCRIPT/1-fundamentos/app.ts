@@ -1,6 +1,6 @@
-const soma = (a: number, b:number) => {
-  return a + b;
-}
+let b: string = 'b';
+let n: number = 5;
+let x: boolean = true;
 
-soma(1, 2);
-soma(4, 7);
+let m: string | number = 7;
+m = 'Gabriel';
