@@ -1,7 +1,7 @@
 const Page = () => {
   return (
-    <div>
-      <h1 className="text-vermelho bg-vermelho-escuro font-medium text-3xl border-2 border-l-red-500">Olá NextJS</h1>
+    <div className="w-screen h-screen">
+      <div className="bg-blue-600 w-36 h-36 p-2 my-8 mx-16">Olá Mundo!</div>
     </div>
   );
 }
